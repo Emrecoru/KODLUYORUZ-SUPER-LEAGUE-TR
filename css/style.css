@@ -1,0 +1,49 @@
+body {
+    background-size: cover;
+    background-image: url(https://c.tenor.com/H73Vh_cOfsAAAAAC/super-league-süper-lig.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    background-position: center;
+    
+   
+}
+
+article {
+    font-size: 40px;
+}
+
+.ol-style {
+    color: #2666CF;
+    display: inline-block;
+    
+}
+
+.a-style {
+    color: #395B64; 
+    text-decoration: none;
+}
+
+.standings-style {
+    background-image: url();
+    background-color: #F5F2E7;
+    color: black;
+    list-style-position: inside;
+    
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  table, th, td{
+      border: 1px solid;
+      margin-left:auto;
+      margin-right:auto;
+  }
+
+  p {
+      color: black;
+      font-size: large;
+  }
